@@ -31,16 +31,19 @@ Alongside entering items to add to their list, the user can enter commands to:
 4. Enter the following commands when needed:
 
     `HELP` displays the help menu
+
     `SHOW` displays the current list contents
+
     `REMOVE` allows an item to be removed from the current list
+
     `CLEAR` will delete the current list and the saved list file
+
     `SAVE` saves the current list to a text file
+
     `QUIT` exits the program without saving
 
 ## Saving and Loading Shopping Lists
 
-If you save your list before quitting the application, the list will be saved to shopping_list.txt (in the same location as shopping_list.py).
-
-The application looks for a saved file when it first runs. If this file is found, it's contents are loaded into the current shopping list.
-
-To manually add items to the shopping_list.txt file, simply add one item per line.
+* If you save your list before quitting the application, the list will be saved to shopping_list.txt (in the same location as shopping_list.py).
+* The application looks for a saved file when it first runs. If this file is found, it's contents are loaded into the current shopping list.
+* To manually add items to the shopping_list.txt file, simply add one item per line.
