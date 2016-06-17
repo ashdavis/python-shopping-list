@@ -1,4 +1,4 @@
-# Python Shopping List Application
+# Python Shopping List
 
 ![Image of Python Shopping List Help Menu]
 (https://ashley.one/img/python-shopping-list-1.png)
