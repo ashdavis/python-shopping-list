@@ -11,9 +11,9 @@ This small command-line application helps the user create a shopping list.
 
 Alongside entering items to add to their list, the user can enter commands to:
 
-    * Display a help menu
-    * Show the current list contents
-    * Remove an item from the current list
-    * Delete the list
-    * Save the current list to a text file
-    * Exit without saving
+* Display a help menu
+* Show the current list contents
+* Remove an item from the current list
+* Delete the list
+* Save the current list to a text file
+* Exit without saving
