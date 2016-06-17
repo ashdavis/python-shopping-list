@@ -24,18 +24,18 @@ Alongside entering items to add to their list, the user can enter commands to:
 
 2. Run the script from the command-line:
 
-    python3 shopping_list.py
+    `python3 shopping_list.py`
 
 3. Add items to your shopping list.
 
 4. Enter the following commands when needed:
 
-* `HELP` displays the help menu
-* `SHOW` displays the current list contents
-* `REMOVE` allows an item to be removed from the current list
-* `CLEAR` will delete the current list and the saved list file
-* `SAVE` saves the current list to a text file
-* `QUIT` exits the program without saving
+    `HELP` displays the help menu
+    `SHOW` displays the current list contents
+    `REMOVE` allows an item to be removed from the current list
+    `CLEAR` will delete the current list and the saved list file
+    `SAVE` saves the current list to a text file
+    `QUIT` exits the program without saving
 
 ## Saving and Loading Shopping Lists
 
