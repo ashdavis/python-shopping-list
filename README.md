@@ -1,6 +1,6 @@
 # Python Shopping List
 
-![Image of Python Shopping List Help Menu](https://ashley.one/img/python-shopping-list-1.png)
+![Python Shopping List](./docs/python-shopping-list-1.png)
 
 A command-line shopping list application written in Python.
 
